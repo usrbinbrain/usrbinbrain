@@ -5,6 +5,8 @@
 &nbsp
   <img alt="ShellScript" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" title="ShellScript" width="10%" height="40">
 &nbsp
+  <img alt="Linux" src="https://icon-library.com/images/linux-icon/linux-icon-1.jpg" title="Linux" width="5%" height="40">
+&nbsp
   <img alt="FreeBSD" src="https://assets.zabbix.com/img/brands/freebsd.svg" title="FreeBSD" width="5%" height="40">
 &nbsp
   <img alt="pfSense" src="https://raw.githubusercontent.com/simple-icons/simple-icons/9b5f37430d0e0cb371d043da121fb69797d023c1/icons/pfsense.svg" title="pfSense" width="4%" height="40">
