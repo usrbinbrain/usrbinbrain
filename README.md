@@ -17,3 +17,6 @@
 &nbsp
   <img alt="VMwareESXi" src="https://raw.githubusercontent.com/cncf/landscape/86571b33fb502709de58ce7d0727b48c8ff66613/hosted_logos/vmware-vsphere.svg" title="VMwareESXi" width="15%" height="40">
 </p>
+<p>
+    <img alt="Lambda" src="https://marvel-b1-cdn.bc0a.com/f00000000152158/www.gliffy.com/sites/gliffy/files/image/2020-06/AWS-Lambda_dark-bg.png" title="Lambda" width="4%" height="4%">
+</p>
