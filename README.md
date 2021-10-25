@@ -18,7 +18,9 @@
   <img alt="VMwareESXi" src="https://raw.githubusercontent.com/cncf/landscape/86571b33fb502709de58ce7d0727b48c8ff66613/hosted_logos/vmware-vsphere.svg" title="VMwareESXi" width="15%" height="40">
 </p>
 <p>
-    <img alt="Aws_Lambda" src="https://marvel-b1-cdn.bc0a.com/f00000000152158/www.gliffy.com/sites/gliffy/files/image/2020-06/AWS-Lambda_dark-bg.png" title="Aws_Lambda" width="4%" height="4%">
+    <img alt="AWS_Lambda" src="https://marvel-b1-cdn.bc0a.com/f00000000152158/www.gliffy.com/sites/gliffy/files/image/2020-06/AWS-Lambda_Lambda-Function_dark-bg_0.png" title="Aws_Lambda" width="4%" height="4%">
 &nbsp
       <img alt="Github_Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="Github_Actions" width="4%" height="4%">
+&nbsp
+      <img alt="Onion_Routing" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-512.png" title="Onion_Routing" width="4%" height="4%">
 </p>
