@@ -36,14 +36,14 @@
   <a href="https://github.com/usrbinbrain">
     <img
       align="center"
-      height="140em"
+      height="100em"
       src="https://github-readme-stats.vercel.app/api?username=usrbinbrain&hide_title=true&theme=dark&count_private=true&show_icons=true"
     />
   </a>
   <a href="https://github.com/usrbinbrain">
     <img
       align="center"
-      height="130em"
+      height="100em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrbinbrain&hide_title=true&layout=compact&theme=dark&&count_private=true"
     />
   </a>
