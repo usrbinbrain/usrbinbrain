@@ -1,3 +1,4 @@
+
 #### Languages and Tools:
 
 <p align="left">
@@ -24,3 +25,51 @@
 &nbsp
       <img alt="Onion_Routing" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-512.png" title="Onion_Routing" width="4%" height="4%">
 </p>
+
+
+<h4 align="left">
+<details>
+<summary>GitHub Stats...</summary>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello friend!</h1></img>
+
+<p align="center">
+  <a href="https://github.com/usrbinbrain">
+    <img
+      align="center"
+      height="140em"
+      src="https://github-readme-stats.vercel.app/api?username=usrbinbrain&hide_title=true&theme=dark&count_private=true&show_icons=true"
+    />
+  </a>
+  <a href="https://github.com/usrbinbrain">
+    <img
+      align="center"
+      height="130em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrbinbrain&hide_title=true&layout=compact&theme=dark&&count_private=true"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/usrbinbrain">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=usrbinbrain&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+
+<h3 align="center">Working on:</h3>
+
+<p align="center">
+  <a href="https://github.com/usrbinbrain/burn-d">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=usrbinbrain&repo=burn-d&theme=dark">
+    </img>
+  </a>
+</p>
+
+</details>
