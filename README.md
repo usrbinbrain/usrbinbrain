@@ -44,7 +44,7 @@
     <img
       align="center"
       height="100em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrbinbrain&hide_title=true&layout=compact&theme=dark&&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrbinbrain&hide=html&hide_title=true&layout=compact&theme=dark&&count_private=true"
     />
   </a>
 </p>
