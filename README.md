@@ -60,16 +60,4 @@
 </a>
 </p>
 
-<h3 align="center">Working on:</h3>
-
-<p align="center">
-  <a href="https://github.com/usrbinbrain/burn-d">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=usrbinbrain&repo=burn-d&theme=dark">
-    </img>
-  </a>
-</p>
-
 </details>
