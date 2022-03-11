@@ -49,15 +49,4 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/usrbinbrain">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=usrbinbrain&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-
 </details>
