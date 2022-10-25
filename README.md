@@ -24,6 +24,10 @@
       <img alt="Github_Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="Github_Actions" width="4%" height="4%">
 &nbsp
       <img alt="Onion_Routing" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/tor-512.png" title="Onion_Routing" width="4%" height="4%">
+&nbsp
+      <img alt="Crowdstrike" src="https://www.crowdstrike.com/wp-content/uploads/2020/03/F_OR.png" title="Crowdstrike" width="4%" height="4%">
+&nbsp 
+      <img alt="Datadog" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Datadog_logo.svg" title="Datadog" width="4%" height="5%">
 </p>
 
 
