@@ -28,6 +28,9 @@
       <img alt="Crowdstrike" src="https://www.crowdstrike.com/wp-content/uploads/2020/03/F_OR.png" title="Crowdstrike" width="4%" height="4%">
 &nbsp 
       <img alt="Datadog" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Datadog_logo.svg" title="Datadog" width="4%" height="5%">
+&nbsp 
+      <img alt="Datadog" src="https://devtools.com.br/img/pix/logo-pix-png-954x339.png" title="PIX (by Banco Central)" width="11%" height="11%">
+
 </p>
 
 
